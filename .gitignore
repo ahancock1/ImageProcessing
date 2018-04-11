@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ImageProcessing/v15
+/ImageProcessing/bin/Debug
+/ImageProcessing/bin/Debug
+/ImageProcessing/obj/Debug
+/ImageProcessing.Console/bin/Debug
+/ImageProcessing.Console/obj/Debug
